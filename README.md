@@ -2,9 +2,10 @@
 - 👋 Hi, I’m @Laikaiyong
 
 ## GitHub Summary 📊
-<img src="https://github-readme-stats.vercel.app/api?username=Laikaiyong&show_icons=true&theme=buefy" align=left width=47% >  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laikaiyong&theme=tokyonight&layout=compact" width=47% align=right>
-
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Laikaiyong&show_icons=true&theme=buefy" align=left width=47% >  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laikaiyong&theme=tokyonight&layout=compact" width=47% align=right>
+</div>
 
 ## Interest
 - 👀 I’m interested in ...

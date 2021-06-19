@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 
 ## GitHub Summary 📈  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laikaiyong&theme=blue-green&layout=compact" width=47% align=left>
-<img src="https://github-readme-stats.vercel.app/api?username=Laikaiyong&show_icons=true&theme=dracula" align=right width=47% >  
+<img src="https://github-readme-stats.vercel.app/api?username=Laikaiyong&show_icons=true&theme=dracula" align=right width=47% height=100% >  

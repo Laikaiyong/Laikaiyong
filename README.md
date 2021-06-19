@@ -4,7 +4,7 @@ There is something over the horizon, reach for it !
 
 ## GitHub Summary 📊
  <img src="https://github-readme-stats.vercel.app/api?username=Laikaiyong&show_icons=true&theme=buefy&custom_title=My Github Stats" align=left width=47% >  
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laikaiyong&theme=tokyonight&layout=compact&custom_title=Language Diversify&exclude_repo=markdown-portfolio, github-upload, github-slideshow" width=47% align=right>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laikaiyong&theme=tokyonight&layout=compact&custom_title=Language Diversify&exclude_repo=markdown-portfolio,github-upload,github-slideshow" width=47% align=right>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/></br>
 
 ## Interest

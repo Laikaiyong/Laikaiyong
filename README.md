@@ -5,5 +5,5 @@
 - 📫 How to reach me ...
 
 ## GitHub Summary 📊
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laikaiyong&theme=gradient&layout=compact" width=47% align=left>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laikaiyong&theme=buefyt&layout=compact" width=47% align=left>
 <img src="https://github-readme-stats.vercel.app/api?username=Laikaiyong&show_icons=true&theme=buefy" align=right width=47% >  

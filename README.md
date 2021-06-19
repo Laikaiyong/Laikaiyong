@@ -3,10 +3,9 @@
 There is something over the horizon, reach for it !
 
 ## GitHub Summary 📊
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Laikaiyong&show_icons=true&theme=buefy" align=left width=47% >  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laikaiyong&theme=tokyonight&layout=compact" width=47% align=right>
-</p>
+ <img src="https://github-readme-stats.vercel.app/api?username=Laikaiyong&show_icons=true&theme=buefy" align=left width=47% >  
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laikaiyong&theme=tokyonight&layout=compact" width=47% align=right>
+ <br/><br/><br/>
 
 ## Interest
 > Anything relates to IT pulls my attention.

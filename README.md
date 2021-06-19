@@ -1,13 +1,15 @@
 # Vandyck
 - 👋 Hi, I’m @Laikaiyong
+There is something over the horizon, reach for it !
 
 ## GitHub Summary 📊
-<div>
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=Laikaiyong&show_icons=true&theme=buefy" align=left width=47% >  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laikaiyong&theme=tokyonight&layout=compact" width=47% align=right>
-</div>
+</p>
 
 ## Interest
+> Anything relates to IT pulls my attention.
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 

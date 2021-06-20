@@ -6,7 +6,7 @@
 ## GitHub Summary 📊
 <img src="https://github-readme-stats.vercel.app/api?username=Laikaiyong&show_icons=true&theme=buefy&custom_title=My Github Stats" width=98% >  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laikaiyong&theme=tokyonight&custom_title=Language Diversify&exclude_repo=markdown-portfolio,github-upload,github-slideshow" width=47% float=left>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Laikaiyong" width=47% position=absolute>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Laikaiyong" width=45%>
 
 
 ## Profile Views 👀

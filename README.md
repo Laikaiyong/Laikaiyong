@@ -39,7 +39,7 @@
  <samp>
  <q>Anything relates to IT pulls my attention.</q><br/>
  🌱 I’m currently learning <br/>
-  <ol>
+  <ol align="center">
    <li>Data Analytics</li>
    <li>Web Development</li>
    <li>App Development</li>
@@ -56,7 +56,7 @@
       else:
           print("Learn later, slowly but surely.")
  ```
-<br/>
+
  <!--## Projects In Progress
 <p>
 <a href="github link">
@@ -80,4 +80,4 @@
  <a href="https://www.linkedin.com/in/lai-kai-yong/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>   
  <a href="https://stackoverflow.com/users/15029642/lai-kai-yong"><img src="https://img.shields.io/badge/Stack Overflow-%2312100E.svg?&style=for-the-badge&logo=stackoverflow"></a> 
  <a href="https://www.instagram.com/vandyck.lai/"><img alt="Instagram" src="https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&logo=vandyck.lai"/></a>
-</p>
+</p><br/>

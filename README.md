@@ -3,7 +3,7 @@
 <p align="center">
  <img src="https://github.com/Laikaiyong/Laikaiyong/blob/main/Cartoon_Vandyck.jpg" width="40%" height="40%"><br/>
  <samp>
-  M<q>There is something over the horizon, reach for it!</q><br/><br/>
+  <q>There is something over the horizon, reach for it!</q><br/><br/>
   👋 Hi, I’m <strong>@Laikaiyong</strong>.<br/><br/>
   I am passionate in IT stuffs and hoping to create great impact to the community.<br/><br/>
   Currently, I am pursuing my Data Informatics course in <a href="https://apu.edu.my/?gclid=CjwKCAjwzruGBhBAEiwAUqMR8ARhF2DLgKGY8m6jprt2xhh9e1Wi6uGYzPfOmLa_5u1Yme-ANN97QhoCI1YQAvD_BwE">Asia Pacific University (APU) </a>.<br/><br/>

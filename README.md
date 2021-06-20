@@ -85,5 +85,5 @@
  <a href="mailto:vandycklai@gmail.com"> <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" ></a>
  <a href="https://www.linkedin.com/in/lai-kai-yong/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>   
  <a href="https://stackoverflow.com/users/15029642/lai-kai-yong"><img src="https://img.shields.io/badge/Stack Overflow-%2312100E.svg?&style=for-the-badge&logo=stackoverflow"></a> 
- <a href="https://www.instagram.com/vandyck.lai/"><img alt="Instagram" src="https://img.shields.io/badge/<vandyck.lai>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+ <a href="https://www.instagram.com/vandyck.lai/"><img alt="Instagram" src="https://img.shields.io/badge/vandyck.lai-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p><br/>

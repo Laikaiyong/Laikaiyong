@@ -1,11 +1,14 @@
 # Vandyck Lai Kai Yong
-<img src="https://github.com/Laikaiyong/Laikaiyong/blob/main/Cartoon_Vandyck.jpg" width="50%" height="50%">
-> There is something over the horizon, reach for it!
+<img src="https://github.com/Laikaiyong/Laikaiyong/blob/main/Cartoon_Vandyck.jpg" width="50%" height="50%" align=center>
 
-👋 Hi, I’m **@Laikaiyong**. 
-I am passionate in IT stuffs and hoping to create great impact to the community. 
-Currently, I am pursuing my Data Informatics course in [Asia Pacific University (APU)](https://apu.edu.my/?gclid=CjwKCAjwzruGBhBAEiwAUqMR8ARhF2DLgKGY8m6jprt2xhh9e1Wi6uGYzPfOmLa_5u1Yme-ANN97QhoCI1YQAvD_BwE). 
-In the meantime, never stop my own self-learning and working for the school to improve the school IT system.
+> There is something over the horizon, reach for it!\
+
+<p align="center">
+ 👋 Hi, I’m **@Laikaiyong**.\
+ </p>
+I am passionate in IT stuffs and hoping to create great impact to the community.\
+Currently, I am pursuing my Data Informatics course in [Asia Pacific University (APU)](https://apu.edu.my/?gclid=CjwKCAjwzruGBhBAEiwAUqMR8ARhF2DLgKGY8m6jprt2xhh9e1Wi6uGYzPfOmLa_5u1Yme-ANN97QhoCI1YQAvD_BwE).\
+In the meantime, never stop my own self-learning and working for the school to improve the school IT system.\
 I love volunteering for example translating in [TWB](https://kato.translatorswb.org/67544b3977686469344b3269357148386d4a547051413d3d3a3a1c04e74df179bd98c323d1b588e1f10a/key/), enrol in programme management in [AYAN](https://www.instagram.com/ayanmalaysia/?hl=en) and helping out international exchange student in [AFS](https://afs.org/).
 
 ## GitHub Summary 📊
@@ -47,11 +50,27 @@ I love volunteering for example translating in [TWB](https://kato.translatorswb.
           print("Learn later, slowly but surely.")
  ```
 
- ## Projects In Progress
- <p>
-<a href="https://github.com/LeeRenJie/Portfolio">
-  <img align=left src="https://github-readme-stats.vercel.app/api/pin/?username=LeeRenJie&repo=Portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width=47% />
+ <!--## Projects In Progress
+<p>
+<a href="github link">
+  <img align=left src="https://github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&repo= repo name and color stuff" width=47% />
 </a>
- 
- 
+ <p>
+<a href="github link">
+  <img align=left src="https://github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&repo= repo name and color stuff" width=47% />
+</a>
+ <p>
+<a href="github link">
+  <img align=left src="https://github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&repo= repo name and color stuff" width=47% />
+</a>
+  <p>
+<a href="github link">
+  <img align=left src="https://github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&repo= repo name and color stuff" width=47% />
+</a>-->
  ## Contact me via 📫
+ <p>
+ <a href="mailto:vandycklai@gmail.com"> <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" ></a>
+ <a href="https://www.linkedin.com/in/lai-kai-yong/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>   
+ <a href="https://stackoverflow.com/users/15029642/lai-kai-yong"><img src="https://img.shields.io/badge/Stack Overflow-%2312100E.svg?&style=for-the-badge&logo=stackoverflow"></a> 
+ <a href="https://www.instagram.com/vandyck.lai/"><img alt="Instagram" src="https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&logo=vandyck.lai"/></a>
+</p>

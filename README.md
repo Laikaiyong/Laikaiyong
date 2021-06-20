@@ -7,9 +7,9 @@
   👋 Hi, I’m **@Laikaiyong**.
  </samp>
 </p>
-I am passionate in IT stuffs and hoping to create great impact to the community.\
-Currently, I am pursuing my Data Informatics course in [Asia Pacific University (APU)](https://apu.edu.my/?gclid=CjwKCAjwzruGBhBAEiwAUqMR8ARhF2DLgKGY8m6jprt2xhh9e1Wi6uGYzPfOmLa_5u1Yme-ANN97QhoCI1YQAvD_BwE).\
-In the meantime, never stop my own self-learning and working for the school to improve the school IT system.\
+I am passionate in IT stuffs and hoping to create great impact to the community.  
+Currently, I am pursuing my Data Informatics course in [Asia Pacific University (APU)](https://apu.edu.my/?gclid=CjwKCAjwzruGBhBAEiwAUqMR8ARhF2DLgKGY8m6jprt2xhh9e1Wi6uGYzPfOmLa_5u1Yme-ANN97QhoCI1YQAvD_BwE).  
+In the meantime, never stop my own self-learning and working for the school to improve the school IT system.  
 I love volunteering for example translating in [TWB](https://kato.translatorswb.org/67544b3977686469344b3269357148386d4a547051413d3d3a3a1c04e74df179bd98c323d1b588e1f10a/key/), enrol in programme management in [AYAN](https://www.instagram.com/ayanmalaysia/?hl=en) and helping out international exchange student in [AFS](https://afs.org/).
 
 ## GitHub Summary 📊

@@ -8,7 +8,7 @@
   I am passionate in IT stuffs and hoping to create great impact to the community.<br/><br/>
   Currently, I am pursuing my Data Informatics course in <a href="https://apu.edu.my/?gclid=CjwKCAjwzruGBhBAEiwAUqMR8ARhF2DLgKGY8m6jprt2xhh9e1Wi6uGYzPfOmLa_5u1Yme-ANN97QhoCI1YQAvD_BwE">Asia Pacific University (APU) </a>.<br/><br/>
   In the meantime, never stop my own self-learning and working for the school to improve the school IT system.<br/><br/>
-  I love volunteering for example translating in <a href="https://kato.translatorswb.org/67544b3977686469344b3269357148386d4a547051413d3d3a3a1c04e74df179bd98c323d1b588e1f10a/key">TWB</a>, part of programme management in <a href="https://www.instagram.com/ayanmalaysia/?hl=en">AYAN</a> and helping out international exchange student in <a href="https://afs.org/">AFS</a>.<br/>
+  I love volunteering for example translating in <a href="https://kato.translatorswb.org/67544b3977686469344b3269357148386d4a547051413d3d3a3a1c04e74df179bd98c323d1b588e1f10a/key">TWB</a>, part of programme management in <a href="https://www.instagram.com/ayanmalaysia/?hl=en">AYAN</a> and helping out international exchange student in <a href="https://afs.org/">AFS</a>.<br/><br/>
  </samp>
 </p>
 
@@ -20,7 +20,7 @@
 
 ## Profile Views 👀
 <img src="https://profile-counter.glitch.me/Laikaiyong/count.svg"/>
-<br/>
+<br/><br/>
 
 ## Skillsets in My Pocket :shipit:
 <p>
@@ -31,10 +31,10 @@
  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" >   
  <img src="https://img.shields.io/badge/-VS%20Code-blue?style=for-the-badge&logo=Visual-studio-code&logoColor=white" > 
  <img src="https://img.shields.io/badge/-SQL%20-grey?style=for-the-badge&logo=SQL">
-</p>
+</p><br/><br/>
 
 
-## Skill In Progress
+## Skills In Progress 💻
 <p align="center">
  <samp>
  <q>Anything relates to IT pulls my attention.</q><br/>
@@ -48,9 +48,9 @@
    <li>Web Development</li>
    <li>App Development</li>
   </ol>
- </samp>
+ </samp><br/><br/>
 
- ### Motivation block
+ ### Motivation block 💪
  ```python
  while True:
       print("Learn!")
@@ -77,6 +77,9 @@
 <a href="github link">
   <img align=left src="https://github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&repo= repo name and color stuff" width=47% />
 </a>-->
+<br/><br/>
+
+
  ## Contact me via 📫
  <p>
  <a href="mailto:vandycklai@gmail.com"> <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" ></a>

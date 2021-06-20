@@ -1,8 +1,12 @@
 # Vandyck Lai Kai Yong
-![](/Cartoon_Vandyck.png){:height=50% width=50%}
+<img src="https://github.com/Laikaiyong/Laikaiyong/blob/main/Cartoon_Vandyck.jpg" width="50%" height="50%">
 > There is something over the horizon, reach for it!
 
-👋 Hi, I’m @Laikaiyong. I am passionate in IT stuffs and hoping to create great impact to the community. Currently, I am pursuing my Data Informatics course in Asia Pacific University (APU). In the meantime, never stop my own self-learning and working for the school to improvised the school IT system.
+👋 Hi, I’m **@Laikaiyong**. 
+I am passionate in IT stuffs and hoping to create great impact to the community. 
+Currently, I am pursuing my Data Informatics course in [Asia Pacific University (APU)](https://apu.edu.my/?gclid=CjwKCAjwzruGBhBAEiwAUqMR8ARhF2DLgKGY8m6jprt2xhh9e1Wi6uGYzPfOmLa_5u1Yme-ANN97QhoCI1YQAvD_BwE). 
+In the meantime, never stop my own self-learning and working for the school to improve the school IT system.
+I love volunteering for example translating in [TWB](https://kato.translatorswb.org/67544b3977686469344b3269357148386d4a547051413d3d3a3a1c04e74df179bd98c323d1b588e1f10a/key/), enrol in programme management in [AYAN](https://www.instagram.com/ayanmalaysia/?hl=en) and helping out international exchange student in [AFS](https://afs.org/).
 
 ## GitHub Summary 📊
 <img src="https://github-readme-stats.vercel.app/api?username=Laikaiyong&show_icons=true&theme=buefy&custom_title=My Github Stats" width=98% >  
@@ -10,12 +14,13 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Laikaiyong&custom_title=Wakatime Coding Jam" width=47%>
 
 
-### Profile Views 👀
+## Profile Views 👀
 <img src="https://profile-counter.glitch.me/Laikaiyong/count.svg"/>
 <br/>
 
 ## Skillsets in My Pocket :shipit:
 <p>
+ <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" >   
  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" > 
  <img src="https://img.shields.io/badge/-python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" >  
@@ -42,8 +47,11 @@
           print("Learn later, slowly but surely.")
  ```
 
- ## Projects
- 
+ ## Projects In Progress
+ <p>
+<a href="https://github.com/LeeRenJie/Portfolio">
+  <img align=left src="https://github-readme-stats.vercel.app/api/pin/?username=LeeRenJie&repo=Portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width=47% />
+</a>
  
  
  ## Contact me via 📫

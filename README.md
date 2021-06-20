@@ -1,5 +1,5 @@
 # Vandyck Lai Kai Yong
-![](https://github.com/Laikaiyong/Laikaiyong/blob/main/Cartoon%20Vandyck.png){:height="50%" width="50%"}
+![](/Cartoon%20Vandyck.png){:height=50% width=50%}
 > There is something over the horizon, reach for it!
 👋 Hi, I’m @Laikaiyong. I am passionate in IT stuffs and hoping to create great impact to the community. Currently, I am pursuing my Data Informatics course in Asia Pacific University (APU). In the meantime, never stop my own self-learning and working for the school to improvised the school IT system.
 

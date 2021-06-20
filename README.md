@@ -1,16 +1,16 @@
 # Vandyck Lai Kai Yong
 
 <p align="center">
- <img src="https://github.com/Laikaiyong/Laikaiyong/blob/main/Cartoon_Vandyck.jpg" width="50%" height="50%"><br/>
+ <img src="https://github.com/Laikaiyong/Laikaiyong/blob/main/Cartoon_Vandyck.jpg" width="40%" height="40%"><br/>
  <samp>
   There is something over the horizon, reach for it!<br/>
-  👋 Hi, I’m **@Laikaiyong**.
+  👋 Hi, I’m **@Laikaiyong**.<br/>
+  I am passionate in IT stuffs and hoping to create great impact to the community.<br/>
+  Currently, I am pursuing my Data Informatics course in <a href="https://apu.edu.my/?gclid=CjwKCAjwzruGBhBAEiwAUqMR8ARhF2DLgKGY8m6jprt2xhh9e1Wi6uGYzPfOmLa_5u1Yme-ANN97QhoCI1YQAvD_BwE">Asia Pacific University (APU) </a>.<br/> 
+  In the meantime, never stop my own self-learning and working for the school to improve the school IT system.<br/>
+  I love volunteering for example translating in <a href="https://kato.translatorswb.org/67544b3977686469344b3269357148386d4a547051413d3d3a3a1c04e74df179bd98c323d1b588e1f10a/key">TWB</a>, part of programme management in <a href="https://www.instagram.com/ayanmalaysia/?hl=en">AYAN</a> and helping out <a href="https://afs.org/">international exchange student in [AFS]</a>.
  </samp>
 </p>
-I am passionate in IT stuffs and hoping to create great impact to the community.&nbsp;
-Currently, I am pursuing my Data Informatics course in [Asia Pacific University (APU)](https://apu.edu.my/?gclid=CjwKCAjwzruGBhBAEiwAUqMR8ARhF2DLgKGY8m6jprt2xhh9e1Wi6uGYzPfOmLa_5u1Yme-ANN97QhoCI1YQAvD_BwE).&nbsp; 
-In the meantime, never stop my own self-learning and working for the school to improve the school IT system.&nbsp;  
-I love volunteering for example translating in [TWB](https://kato.translatorswb.org/67544b3977686469344b3269357148386d4a547051413d3d3a3a1c04e74df179bd98c323d1b588e1f10a/key/), enrol in programme management in [AYAN](https://www.instagram.com/ayanmalaysia/?hl=en) and helping out international exchange student in [AFS](https://afs.org/).&nbsp;
 
 ## GitHub Summary 📊
 <img src="https://github-readme-stats.vercel.app/api?username=Laikaiyong&show_icons=true&theme=buefy&custom_title=My Github Stats" width=98% >  
@@ -35,11 +35,17 @@ I love volunteering for example translating in [TWB](https://kato.translatorswb.
 
 
 ## Skill In Progress
-> Anything relates to IT pulls my attention.
-- 🌱 I’m currently learning
-  1. Data Analytics
-  2. Web Development
-  3. App Development
+<p align="center">
+ <samp>
+ <q>Anything relates to IT pulls my attention.</q><br/>
+ 🌱 I’m currently learning <br/>
+  <ol>
+   <li>Data Analytics</li>
+   <li>Web Development</li>
+   <li>App Development</li>
+  </ol>
+ </samp>
+</p>
 
  ### Motivation block
  ```python
@@ -50,7 +56,7 @@ I love volunteering for example translating in [TWB](https://kato.translatorswb.
       else:
           print("Learn later, slowly but surely.")
  ```
-
+<br/>
  <!--## Projects In Progress
 <p>
 <a href="github link">

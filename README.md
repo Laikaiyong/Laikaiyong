@@ -1,6 +1,6 @@
 # Vandyck Lai Kai Yong
 
-<p align="center">
+<p align="center" font-size=150%>
  <img src="https://github.com/Laikaiyong/Laikaiyong/blob/main/Cartoon_Vandyck.jpg" width="40%" height="40%"><br/>
  <samp>
   There is something over the horizon, reach for it!<br/>
@@ -38,14 +38,17 @@
 <p align="center">
  <samp>
  <q>Anything relates to IT pulls my attention.</q><br/>
- 🌱 I’m currently learning <br/>
-  <ol align="center">
-   <li align="center">Data Analytics</li>
-   <li align="center">Web Development</li>
-   <li align="center">App Development</li>
-  </ol>
  </samp>
 </p>
+
+<samp>
+ 🌱 I’m currently learning <br/>
+  <ol align="center">
+   <li>Data Analytics</li>
+   <li>Web Development</li>
+   <li>App Development</li>
+  </ol>
+ </samp>
 
  ### Motivation block
  ```python

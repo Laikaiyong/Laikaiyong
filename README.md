@@ -5,9 +5,8 @@
 
 ## GitHub Summary 📊
 <img src="https://github-readme-stats.vercel.app/api?username=Laikaiyong&show_icons=true&theme=buefy&custom_title=My Github Stats" width=98% >  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laikaiyong&theme=tokyonight&custom_title=Language Diversify&exclude_repo=markdown-portfolio,github-upload,github-slideshow" width=47% float=left position=absolute>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Laikaiyong" width=47% float=right position=absolute>
-[![Vandyck's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Laikaiyong)]
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laikaiyong&theme=tokyonight&custom_title=Language Diversify&exclude_repo=markdown-portfolio,github-upload,github-slideshow" width=47% float=left>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Laikaiyong" width=47% position=absolute>
 
 
 ## Profile Views 👀

@@ -40,9 +40,9 @@
  <q>Anything relates to IT pulls my attention.</q><br/>
  🌱 I’m currently learning <br/>
   <ol align="center">
-   <li>Data Analytics</li>
-   <li>Web Development</li>
-   <li>App Development</li>
+   <li align="center">Data Analytics</li>
+   <li align="center">Web Development</li>
+   <li align="center">App Development</li>
   </ol>
  </samp>
 </p>

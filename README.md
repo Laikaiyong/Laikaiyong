@@ -5,8 +5,8 @@
 
 ## GitHub Summary 📊
 <img src="https://github-readme-stats.vercel.app/api?username=Laikaiyong&show_icons=true&theme=buefy&custom_title=My Github Stats" width=98% >  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laikaiyong&theme=tokyonight&custom_title=Language Diversify&exclude_repo=markdown-portfolio,github-upload,github-slideshow" width=47% float=left>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Laikaiyong" width=45%>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laikaiyong&theme=tokyonight&custom_title=Language Diversify&exclude_repo=markdown-portfolio,github-upload,github-slideshow" width=47% align=left>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Laikaiyong" width=47%>
 
 
 ## Profile Views 👀
@@ -30,14 +30,14 @@
  
 ## Interest
 > Anything relates to IT pulls my attention.
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 
+ ```python
+ while True:
+      print(Learn!)
+ ```
 
-Contact me via 📫
-
-  
-  ## Projects In Progress   
-<!-- <a href="https://github.com/LeeRenJie/Portfolio">
-  <img align=left src="https://github-readme-stats.vercel.app/api/pin/?username=LeeRenJie&repo=Portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width=47% />
-</a> -->
+ ## Projects
+ 
+ 
+ ## Contact me via 📫

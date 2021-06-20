@@ -50,7 +50,7 @@
   </ol>
  </samp><br/><br/>
 
- ### Motivation block 💪
+ ## Motivation block 💪
  ```python
  while True:
       print("Learn!")

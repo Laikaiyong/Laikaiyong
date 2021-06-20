@@ -4,7 +4,7 @@
  <img src="https://github.com/Laikaiyong/Laikaiyong/blob/main/Cartoon_Vandyck.jpg" width="40%" height="40%"><br/>
  <samp>
   There is something over the horizon, reach for it!<br/>
-  👋 Hi, I’m **@Laikaiyong**.<br/>
+  👋 Hi, I’m <strong>@Laikaiyong</strong>.<br/>
   I am passionate in IT stuffs and hoping to create great impact to the community.<br/>
   Currently, I am pursuing my Data Informatics course in <a href="https://apu.edu.my/?gclid=CjwKCAjwzruGBhBAEiwAUqMR8ARhF2DLgKGY8m6jprt2xhh9e1Wi6uGYzPfOmLa_5u1Yme-ANN97QhoCI1YQAvD_BwE">Asia Pacific University (APU) </a>.<br/> 
   In the meantime, never stop my own self-learning and working for the school to improve the school IT system.<br/>

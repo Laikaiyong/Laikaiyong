@@ -13,8 +13,8 @@
 </p>
 
 ## GitHub Summary 📊
-<img src="https://github-readme-stats.vercel.app/api?username=Laikaiyong&show_icons=true&custom_title=My Github Stats&orgs=Pynata, vandycklai&theme=dracula" width=98% >  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laikaiyong&custom_title=Language Diversify&orgs=Pynata, vandycklai&exclude_repo=markdown-portfolio,github-upload,github-slideshow&theme=dracula" width=47% align=left>
+<img src="https://github-readme-stats.vercel.app/api?username=Laikaiyong&show_icons=true&custom_title=My Github Stats&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=dracula" width=98% >  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laikaiyong&custom_title=Language Diversify&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=markdown-portfolio,github-upload,github-slideshow&theme=dracula" width=47% align=left>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Laikaiyong&custom_title=Wakatime Coding Jam&layout=compact&theme=dracula&v=2" width=47%>
 
 

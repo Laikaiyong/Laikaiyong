@@ -63,8 +63,8 @@
 ## Group Projects
 <p>
 <a href="https://github.com/Pynata/Pynata.github.io">
-  <img align=left src="https://github-readme-stats.vercel.app/api/pin/?username=Laikaiyong?orgs=Pynata&theme=radical&repo=Pynata.github.io" width=47% />
-</a><br/>
+  <img align=left src="https://github-readme-stats.vercel.app/api/pin?username=Laikaiyong?orgs=Pynata&theme=radical&repo=Pynata.github.io" width=47% />
+</a></p><br/><br/>
 <!--
  <p>
 <a href="github link">

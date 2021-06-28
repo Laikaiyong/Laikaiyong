@@ -63,8 +63,8 @@
 ## Projects In Progress
 <p>
 <a href="https://github.com/Pynata/Pynata.github.io">
-  <img align=left src="https://github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&repo=Pynata.github.io&theme=radical" width=47% />
-</a>
+  <img align=left src="https://github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&repo=Pynata/Pynata.github.io&theme=radical" width=47% />
+</a><br/>
 <!--
  <p>
 <a href="github link">

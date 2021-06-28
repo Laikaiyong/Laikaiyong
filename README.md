@@ -13,9 +13,9 @@
 </p>
 
 ## GitHub Summary 📊
-<img src="https://github-readme-stats.vercel.app/api?username=Laikaiyong&show_icons=true&custom_title=My Github Stats&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width=98% >  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laikaiyong&custom_title=Language Diversify&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=markdown-portfolio,github-upload,github-slideshow" width=47% align=left>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Laikaiyong&custom_title=Wakatime Coding Jam&layout=compact&v=2" width=47%>
+<img src="https://github-readme-stats.vercel.app/api?username=Laikaiyong&show_icons=true&custom_title=My Github Stats&orgs=Pynata, vandycklai&theme=dracula" width=98% >  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laikaiyong&custom_title=Language Diversify&orgs=Pynata, vandycklai&exclude_repo=markdown-portfolio,github-upload,github-slideshow&theme=dracula" width=47% align=left>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Laikaiyong&custom_title=Wakatime Coding Jam&layout=compact&theme=dracula&v=2" width=47%>
 
 
 ## Profile Views 👀
@@ -63,7 +63,7 @@
 ## Top Projects
 <p>
 <a href="https://github.com/Pynata/Pynata.github.io">
-  <img align=left src="https://github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&theme=radical&repo=Laikaiyong.github.io" width=47% />
+  <img align=left src="https://github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&theme=dracula&repo=Laikaiyong.github.io" width=47% />
 </a></p><br/><br/>
 <!--
  <p>

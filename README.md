@@ -60,11 +60,12 @@
           print("Learn later, slowly but surely.")
  ```
 
- <!--## Projects In Progress
+## Projects In Progress
 <p>
-<a href="github link">
-  <img align=left src="https://github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&repo= repo name and color stuff" width=47% />
+<a href="https://github.com/Pynata/Pynata.github.io">
+  <img align=left src="https://github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&repo=Pynata.github.io&theme=radical" width=47% />
 </a>
+<!--
  <p>
 <a href="github link">
   <img align=left src="https://github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&repo= repo name and color stuff" width=47% />

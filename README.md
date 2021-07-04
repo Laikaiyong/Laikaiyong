@@ -60,27 +60,37 @@
           print("Learn later, slowly but surely.")
  ```
 
-<!-- ## Top Projects
+## Top 6 Individual Projects
 <p>
-<a href="https://github.com/Pynata/Pynata.github.io">
-  <img align=left src="https://github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&theme=dracula&repo=Laikaiyong.github.io" width=47% />
-</a></p><br/><br/> -->
-<!--
- <p>
-<a href="github link">
-  <img align=left src="https://github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&repo= repo name and color stuff" width=47% />
-</a>
- <p>
-<a href="github link">
-  <img align=left src="https://github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&repo= repo name and color stuff" width=47% />
-</a>
-  <p>
-<a href="github link">
-  <img align=left src="https://github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&repo= repo name and color stuff" width=47% />
-</a>-->
+<a href="https://github.com/Laikaiyong/vancalculator-Package">
+  <img align=left src="https://github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&theme=dracula&repo=vancalculator-Package" width=47% />
+</a></p>
+<p>
+<a href="https://github.com/Laikaiyong/KY-Gor-Gor-Bot">
+  <img align=left src="https://github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&theme=dracula&repo=KY-Gor-Gor-Bot" width=47% />
+</a></p>
+<p>
+<a href="https://github.com/Laikaiyong/laikaiyong.github.io">
+  <img align=left src="https://github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&theme=dracula&repo=laikaiyong.github.io" width=47% />
+</a></p>
+<p>
+<a href="https://github.com/Laikaiyong/vandyck.Password_Generator.Basic">
+  <img align=left src="https://github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&theme=dracula&repo=vandyck.Password_Generator.Basic" width=47% />
+</a></p>
+<p>
+<a href="https://github.com/Laikaiyong/Meme-Generator">
+  <img align=left src="https://github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&theme=dracula&repo=Meme-Generator" width=47% />
+</a></p>
+<p>
+<a href="https://github.com/Laikaiyong/Shooting-Game-Text-Version-">
+  <img align=left src="https://github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&theme=dracula&repo=Shooting-Game-Text-Version-" width=47% />
+</a></p>
 <br/><br/>
+   
+ Group Projects are being pinned below.<br/><br/>
 
 
+   
  ## Contact me via 📫
  <p>
  <a href="mailto:vandycklai@gmail.com"> <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" ></a>

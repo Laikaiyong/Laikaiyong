@@ -85,9 +85,8 @@
 <a href="https://github.com/Laikaiyong/Shooting-Game-Text-Version-">
   <img align=left src="https://github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&theme=dracula&repo=Shooting-Game-Text-Version-" width=47% />
 </a></p>
-<br/><br/>
    
- Group Projects are being pinned below.<br/><br/>
+ >Group Projects are being pinned below.<br/><br/>
 
 
    

@@ -68,18 +68,18 @@
 <p>
 <a href="https://github.com/Laikaiyong/KY-Gor-Gor-Bot">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&theme=dracula&repo=KY-Gor-Gor-Bot" width=47% inline=True />
-</a></p>
+</a></p><br/><br/><br/>
 <p>
 <a href="https://github.com/Laikaiyong/laikaiyong.github.io">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&theme=dracula&repo=laikaiyong.github.io" width=47% />
+  <img align=left src="https://github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&theme=dracula&repo=laikaiyong.github.io" width=47% />
 </a></p>
 <p>
 <a href="https://github.com/Laikaiyong/vandyck.Password_Generator.Basic">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&theme=dracula&repo=vandyck.Password_Generator.Basic" width=47% inline=True/>
-</a></p>
+</a></p><br/><br/><br/>
 <p>
 <a href="https://github.com/Laikaiyong/Meme-Generator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&theme=dracula&repo=Meme-Generator" width=47% />
+  <img align=left src="https://github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&theme=dracula&repo=Meme-Generator" width=47% />
 </a></p>
 <p>
 <a href="https://github.com/Laikaiyong/Shooting-Game-Text-Version-">

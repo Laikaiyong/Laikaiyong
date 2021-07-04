@@ -68,7 +68,7 @@
 <p>
 <a href="https://github.com/Laikaiyong/KY-Gor-Gor-Bot">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&theme=dracula&repo=KY-Gor-Gor-Bot" width=47% inline=True />
-</a></p><br/><br/><br/>
+</a></p><br/><br/>
 <p>
 <a href="https://github.com/Laikaiyong/laikaiyong.github.io">
   <img align=left src="https://github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&theme=dracula&repo=laikaiyong.github.io" width=47% />
@@ -76,7 +76,7 @@
 <p>
 <a href="https://github.com/Laikaiyong/vandyck.Password_Generator.Basic">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&theme=dracula&repo=vandyck.Password_Generator.Basic" width=47% inline=True/>
-</a></p><br/><br/><br/>
+</a></p><br/>
 <p>
 <a href="https://github.com/Laikaiyong/Meme-Generator">
   <img align=left src="https://github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&theme=dracula&repo=Meme-Generator" width=47% />

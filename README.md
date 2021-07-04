@@ -75,7 +75,7 @@
 </a></p>
 <p>
 <a href="https://github.com/Laikaiyong/vandyck.Password_Generator.Basic">
-  <img align=right src="https://github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&theme=dracula&repo=vandyck.Password_Generator.Basic" width=47% inline=True/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&theme=dracula&repo=vandyck.Password_Generator.Basic" width=47% inline=True/>
 </a></p><br/><br/><br/><br/>
 <p>
 <a href="https://github.com/Laikaiyong/Meme-Generator">
@@ -83,8 +83,8 @@
 </a></p>
 <p>
 <a href="https://github.com/Laikaiyong/Shooting-Game-Text-Version-">
-  <img align=right src="https://github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&theme=dracula&repo=Shooting-Game-Text-Version-" width=47% inline=True/>
-</a></p><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&theme=dracula&repo=Shooting-Game-Text-Version-" width=47% inline=True/>
+</a></p><br/><br/><br/><br/><br/>
    
  >Group Projects are being pinned below.<br/><br/>
 

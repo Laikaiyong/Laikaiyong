@@ -71,7 +71,7 @@
 </a></p>
 <p>
 <a href="https://github.com/Laikaiyong/laikaiyong.github.io">
-  <img align=left src="https://github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&theme=dracula&repo=laikaiyong.github.io" width=47% />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&theme=dracula&repo=laikaiyong.github.io" width=47% />
 </a></p>
 <p>
 <a href="https://github.com/Laikaiyong/vandyck.Password_Generator.Basic">
@@ -79,7 +79,7 @@
 </a></p>
 <p>
 <a href="https://github.com/Laikaiyong/Meme-Generator">
-  <img align=left src="https://github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&theme=dracula&repo=Meme-Generator" width=47% />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&theme=dracula&repo=Meme-Generator" width=47% />
 </a></p>
 <p>
 <a href="https://github.com/Laikaiyong/Shooting-Game-Text-Version-">

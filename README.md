@@ -1,15 +1,50 @@
-# Vandyck Lai Kai Yong
-
+<h2 align="center">
+    <b>Vandyck Lai Kai Yong</b>
+    <img alt="Vandyck Lai Kai Yong" src="https://avatars.githubusercontent.com/u/76078213?v=4" style="border-radius:50%;"/></img>
+</h2>
 <p align="center">
- <img src="https://github.com/Laikaiyong/Laikaiyong/blob/main/Cartoon_Vandyck.jpg" width="40%" height="40%"><br/>
- <samp>
-  <q>There is something over the horizon, reach for it!</q><br/><br/>
-  👋 Hi, I’m <strong>@Laikaiyong</strong>.<br/><br/>
-  I am passionate in IT stuffs and hoping to create great impact to the community.<br/><br/>
-  Currently, I am pursuing my Data Informatics course in <a href="https://apu.edu.my/?gclid=CjwKCAjwzruGBhBAEiwAUqMR8ARhF2DLgKGY8m6jprt2xhh9e1Wi6uGYzPfOmLa_5u1Yme-ANN97QhoCI1YQAvD_BwE">Asia Pacific University (APU) </a>.<br/><br/>
-  In the meantime, never stop my own self-learning and working for the school to improve the school IT system.<br/><br/>
-  I love volunteering for example translating in <a href="https://kato.translatorswb.org/67544b3977686469344b3269357148386d4a547051413d3d3a3a1c04e74df179bd98c323d1b588e1f10a/key">TWB</a>, part of programme management in <a href="https://www.instagram.com/ayanmalaysia/?hl=en">AYAN</a> and helping out international exchange student in <a href="https://afs.org/">AFS</a>.<br/><br/>
- </samp>
+  <img alt="Vandyck Github Trophy" src="https://github-profile-trophy.vercel.app/?username=Laikaiyong&row=1"></img>
+</p>
+
+<h2 align="center">
+    <b>👀 Profile Views</b><br/>
+    <img src="https://profile-counter.glitch.me/Laikaiyong/count.svg"/>
+</h2>
+
+## Skills 👨‍💻
+### Language 🔠
+<p>
+ <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&logo=html5&logoColor=white&style=plastic" >   
+ <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&logo=css3&logoColor=white&style=plastic" > 
+ <img alt="Python" src="https://img.shields.io/badge/-python%20-%2314354C.svg?&logo=python&logoColor=white&style=plastic" >   
+ <img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?logo=amazon-dynamodb&logoColor=white&style=plastic">
+ <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white&style=plastic">
+</p>
+
+
+### Frameworks 📚 
+<p>
+ <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white&style=plastic">
+</p>
+
+### Tools 🧰
+<p>
+ <img alt="Microsoft Office" src="https://img.shields.io/badge/Ms%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white&style=plastic" />
+ <img alt="Visual Studio Code" src="https://img.shields.io/badge/-VS%20Code-blue?style=for-the-badge&logo=Visual-studio-code&logoColor=white&style=plastic" >
+ <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white">
+ <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white">
+ <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white">
+ <img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white&style=for-the-badge">
+</p>
+
+### Under Construction 💻
+<p>
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&style=plastic">
+    <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white&style=plastic">
+    <img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white&style=plastic">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white&style=plastic">  
+    <img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jquery&logoColor=white">
+    <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white&style=plastic">
 </p>
 
 ## GitHub Summary 📊
@@ -17,48 +52,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laikaiyong&custom_title=Language Diversify&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=markdown-portfolio,github-upload,github-slideshow&theme=dracula" width=47% align=left>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Laikaiyong&custom_title=Wakatime Coding Jam&layout=compact&theme=dracula&v=2" width=47%>
 
-
-## Profile Views 👀
-<img src="https://profile-counter.glitch.me/Laikaiyong/count.svg"/>
-<br/><br/>
-
-## Skillsets in My Pocket :shipit:
-<p>
- <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
- <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" >   
- <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" > 
- <img src="https://img.shields.io/badge/-python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" >  
- <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" >   
- <img src="https://img.shields.io/badge/-VS%20Code-blue?style=for-the-badge&logo=Visual-studio-code&logoColor=white" > 
- <img src="https://img.shields.io/badge/-SQL%20-grey?style=for-the-badge&logo=SQL">
-</p><br/><br/>
-
-
-## Skills In Progress 💻
-<p align="center">
- <samp>
- <q>Anything relates to IT pulls my attention.</q><br/>
- </samp>
-</p>
-
-<samp>
- 🌱 I’m currently learning <br/>
-  <ol>
-   <li>Data Analytics</li>
-   <li>Web Development</li>
-   <li>App Development</li>
-  </ol>
- </samp><br/><br/>
-
- ## Motivation block 💪
- ```python
- while True:
-      print("Learn!")
-      if time == "free":
-          print("Learn more!")
-      else:
-          print("Learn later, slowly but surely.")
- ```
 
 ## Top 6 Individual Projects
 <p>

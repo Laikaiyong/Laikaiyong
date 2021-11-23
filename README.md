@@ -16,7 +16,8 @@
 <p>
  <img alt="HTML5" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&logo=html5&logoColor=white&style=plastic" >   
  <img alt="CSS3" src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?&logo=css3&logoColor=white&style=plastic" > 
- <img alt="Python" src="https://img.shields.io/badge/-Python%20-%2314354C.svg?&logo=python&logoColor=white&style=plastic" >   
+ <img alt="Python" src="https://img.shields.io/badge/-Python%20-%2314354C.svg?&logo=python&logoColor=white&style=plastic" > 
+ <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&style=plastic">
  <img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?logo=amazon-dynamodb&logoColor=white&style=plastic">
  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white&style=plastic">
 </p>
@@ -26,7 +27,10 @@
 <p>
  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white&style=plastic">
  <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white&style=plastic">
- <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
+ <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white&style=plastic">
+ <img alt="Vue.js" src="https://img.shields.io/badge/Vuejs-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D">   
+ <img alt="Vuetify" src="https://img.shields.io/badge/Vuetify-1867C0?style=plastic&logo=vuetify&logoColor=AEDDFFD">
+ <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white">
 </p>
 
 ### Tools 🧰
@@ -47,7 +51,6 @@
 
 ### Under Construction 💻
 <p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&style=plastic">
   <img alt="R" src="https://img.shields.io/badge/R-%23276DC3.svg?style=plastic&logo=r&logoColor=white">
   <img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=c&logoColor=white">
   <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
@@ -56,6 +59,12 @@
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white&style=plastic">  
   <img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jquery&logoColor=white">
   <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white&style=plastic">
+  <img alt="OpenCV" src ="https://img.shields.io/badge/OpenCV-%23white.svg?style=plastic&logo=opencv&logoColor=white">
+  <img alt="npm" src ="https://img.shields.io/badge/npm-%23000000.svg?style=plastic&logo=npm&logoColor=white">  
+  <img alt="Nodejs" src ="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"> 
+  <img alt="Webpack" src ="https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"> 
+  <img alt="Yarn" src ="https://img.shields.io/badge/Yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"> 
+  <img alt="Laravel" src ="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"> 
   <img alt="Scikit Learn" src ="https://img.shields.io/badge/Scikit%20Learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white">  
   <img alt="AWS" src ="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white"> 
   <img alt="Audition" src ="https://img.shields.io/badge/Audition-9999FF.svg?style=plastic&logo=Adobe%20Audition&logoColor=white">
@@ -80,7 +89,7 @@
   <img alt="Vandyck's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laikaiyong&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 </p>
 <p align="center">
-   <img alt="Vandyck's Wakatime coding" src="https://github-readme-stats.vercel.app/api/wakatime?username=Laikaiyong&custom_title=Wakatime Coding Jam&layout=compact&theme=react&v=2" width="50%">
+   <img alt="Vandyck's Wakatime coding" src="https://github-readme-stats.vercel.app/api/wakatime?username=Laikaiyong&custom_title=Wakatime Coding Jam&layout=compact&theme=react&v=2" width="40%">
 </p>
 
 ## Top 6 Individual Projects

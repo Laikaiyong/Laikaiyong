@@ -80,17 +80,17 @@
   <img alt="Vandyck's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laikaiyong&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 </p>
 <p align="center">
-   <img alt="Vandyck's Wakatime coding" src="https://github-readme-stats.vercel.app/api/wakatime?username=Laikaiyong&custom_title=Wakatime Coding Jam&layout=compact&theme=react&v=2" width="60%">
+   <img alt="Vandyck's Wakatime coding" src="https://github-readme-stats.vercel.app/api/wakatime?username=Laikaiyong&custom_title=Wakatime Coding Jam&layout=compact&theme=react&v=2" width="50%">
 </p>
 
 ## Top 6 Individual Projects
-<p align="center">
+<p align="left">
  <a href="https://github.com/Laikaiyong/vancalculator-Package"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&repo=vancalculator-Package&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
  <a href="https://github.com/Laikaiyong/KY-Gor-Gor-Bot"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&repo=KY-Gor-Gor-Bot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
  <a href="https://github.com/Laikaiyong/laikaiyong.github.io"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&repo=laikaiyong.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><a>
-  <a href="https://github.com/Laikaiyong/TodoList-Vue"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&repo=/TodoList-Vue&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><a>
+  <a href="https://github.com/Laikaiyong/TodoList-Vue"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&repo=TodoList-Vue&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><a>
    <a href="https://github.com/Laikaiyong/Covid-19-Economic-Impact-Analysis"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&repo=Covid-19-Economic-Impact-Analysis&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><a>
-  <a href="https://github.com/Laikaiyong/Random-User-Generator"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&repo=/Random-User-Generator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><a>
+  <a href="https://github.com/Laikaiyong/Random-User-Generator"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&repo=Random-User-Generator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><a>
 </p>
 
 > Top 6 **Group Projects** are pinned below.

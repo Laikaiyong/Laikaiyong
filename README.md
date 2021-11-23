@@ -61,10 +61,10 @@
   <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white&style=plastic">
   <img alt="OpenCV" src ="https://img.shields.io/badge/OpenCV-%23white.svg?style=plastic&logo=opencv&logoColor=white">
   <img alt="npm" src ="https://img.shields.io/badge/npm-%23000000.svg?style=plastic&logo=npm&logoColor=white">  
-  <img alt="Nodejs" src ="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"> 
-  <img alt="Webpack" src ="https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"> 
-  <img alt="Yarn" src ="https://img.shields.io/badge/Yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"> 
-  <img alt="Laravel" src ="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"> 
+  <img alt="Nodejs" src ="https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=node.js&logoColor=white"> 
+  <img alt="Webpack" src ="https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=plastic&logo=webpack&logoColor=black"> 
+  <img alt="Yarn" src ="https://img.shields.io/badge/Yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white"> 
+  <img alt="Laravel" src ="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white"> 
   <img alt="Scikit Learn" src ="https://img.shields.io/badge/Scikit%20Learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white">  
   <img alt="AWS" src ="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white"> 
   <img alt="Audition" src ="https://img.shields.io/badge/Audition-9999FF.svg?style=plastic&logo=Adobe%20Audition&logoColor=white">

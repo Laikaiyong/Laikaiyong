@@ -89,7 +89,7 @@
   <img alt="Vandyck's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laikaiyong&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 </p>
 <p align="center">
-   <img alt="Vandyck's Wakatime coding" src="https://github-readme-stats.vercel.app/api/wakatime?username=Laikaiyong&custom_title=Wakatime Coding Jam&layout=compact&theme=react&v=2" width="40%">
+   <img alt="Vandyck's Wakatime coding" src="https://github-readme-stats.vercel.app/api/wakatime?username=Laikaiyong&custom_title=Wakatime Coding Jam&layout=compact&theme=monokai" width="40%">
 </p>
 
 ## Top 6 Individual Projects

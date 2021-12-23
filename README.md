@@ -41,6 +41,7 @@
  <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white">
  <img alt="Github" src="https://img.shields.io/badge/Github-%23121011.svg?style=plastic&logo=github&logoColor=white">
  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white">
+ <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=Tableau&logoColor=whitee">  
  <img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white&style=plastic">
  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7"> 
  <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white">   
@@ -64,6 +65,8 @@
   <img alt="Nodejs" src ="https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=node.js&logoColor=white"> 
   <img alt="Webpack" src ="https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=plastic&logo=webpack&logoColor=black"> 
   <img alt="Yarn" src ="https://img.shields.io/badge/Yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white"> 
+  <img alt="Angular" src ="https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=angular&logoColor=white">  
+  <img alt="Ionic" src ="https://img.shields.io/badge/Ionic-3880FF?style=plastic&logo=ionic&logoColor=white">  
   <img alt="Laravel" src ="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white"> 
   <img alt="Scikit Learn" src ="https://img.shields.io/badge/Scikit%20Learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white">  
   <img alt="AWS" src ="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white"> 

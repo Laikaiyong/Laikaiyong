@@ -89,8 +89,7 @@
 ### Profile 🐾
 <p>
   <img alt="vandyck's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Laikaiyong&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  <img alt="Vandyck's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laikaiyong&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-   <img alt="Vandyck's Wakatime coding" src="https://github-readme-stats.vercel.app/api/wakatime?username=Laikaiyong&custom_title=Wakatime%20Coding%20Jam&layout=compact&langs_count=8&theme=aura_dark" height="192px">
+  <img alt="Repo Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laikaiyong&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 </p>
 
 ## Top 6 Individual Projects

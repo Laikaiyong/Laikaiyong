@@ -3,7 +3,7 @@
     <img alt="Vandyck Lai Kai Yong" src="https://avatars.githubusercontent.com/u/76078213?v=4" height="250px"/></img>
 </h2>
 <p align="center">
-  <img alt="Vandyck Github Trophy" src="https://github-profile-trophy.vercel.app/?username=Laikaiyong&row=1"></img>
+  <img alt="Vandyck Github Trophy" src="https://github-profile-trophy.vercel.app/?username=Laikaiyong&row=1&theme=monokai"></img>
 </p>
 
 <h2 align="center">

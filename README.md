@@ -52,6 +52,9 @@
 
 ### Under Construction 💻
 <p>
+  <img alt="Google Analytics" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=plastic&logo=google%20analytics&logoColor=white">
+  <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white">
+  <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=plastic&logo=wordpress&logoColor=white">
   <img alt="R" src="https://img.shields.io/badge/R-%23276DC3.svg?style=plastic&logo=r&logoColor=white">
   <img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=c&logoColor=white">
   <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
@@ -96,8 +99,8 @@
 <p align="left">
  <a href="https://github.com/Laikaiyong/vancalculator-Package"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&repo=vancalculator-Package&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
  <a href="https://github.com/Laikaiyong/KY-Gor-Gor-Bot"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&repo=KY-Gor-Gor-Bot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
- <a href="https://github.com/Laikaiyong/laikaiyong.github.io"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&repo=laikaiyong.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><a>
-  <a href="https://github.com/Laikaiyong/Task-Tracker"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&repo=Task-Tracker&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><a>
+ <a href="https://github.com/Laikaiyong/Resort-Room-Booking-System"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&repo=Resort-Room-Booking-System&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><a>
+  <a href="https://github.com/Laikaiyong/Felix-Frasers-Hill-Chatbot"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&repo=Felix-Frasers-Hill-Chatbot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><a>
    <a href="https://github.com/Laikaiyong/Covid-19-Economic-Impact-Analysis"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&repo=Covid-19-Economic-Impact-Analysis&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><a>
   <a href="https://github.com/Laikaiyong/Banking-Chatbot"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Laikaiyong&repo=Banking-Chatbot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><a>
 </p>
